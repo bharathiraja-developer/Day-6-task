@@ -1,3 +1,5 @@
+//Write a “person” class to hold all the details.
+
 class person{
     constructor(name,age,phone,email,address,...others) {
         this.name = String(name);

@@ -1,3 +1,5 @@
+//write a class to calculate the uber price.
+
 class uberPrice{
     constructor(fromLocation, toLocation,vechicleType, travelDistance) {
         this.fromLocation = String(fromLocation);
